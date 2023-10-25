@@ -1,0 +1,72 @@
+* {
+    vertical-align: baseline;
+    font-weight: inherit;
+    font-family: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    border: 0 none;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    }
+
+
+
+
+body{ 
+    background-color: red;
+    
+}
+
+
+h1 {
+    text-transform: uppercase;
+    font-family: "Rubik+Mono+One";
+    color: orange;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 80px;
+}
+
+.yazilar{
+    color: orange;
+    font-family: "Roboto";
+    font-weight: bold;
+    text-align: center;
+    float: none;
+    font-size: 40px;
+}
+
+p{
+    color: orange;
+    font-family: "Roboto";
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+#container{
+    margin: auto;
+    max-width: 960px;
+    padding: 20px;
+    border: solid black: 2px;
+    overflow: auto;
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    height: 500px;
+      
+}
+
+.button {
+    background-color: black; 
+    color: white; 
+    width: 50%;height: 20%; 
+    font-size: 50px; 
+    
+}
